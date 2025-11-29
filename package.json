@@ -1,5 +1,8 @@
 cat > package.json << 'EOF'
 {
+  "engines": {
+    "node": 24.0.0
+    }
   "name": "mycode",
   "version": "1.0.0",
   "scripts": {
