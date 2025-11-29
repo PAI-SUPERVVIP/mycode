@@ -1,7 +1,6 @@
-cat > package.json << 'EOF'
 {
   "engines": {
-    "node": 24.0.0
+    "node": 24.0
     }
   "name": "mycode",
   "version": "1.0.0",
@@ -14,4 +13,3 @@ cat > package.json << 'EOF'
     "node-pty": "^1.1.0"
   }
 }
-EOF
