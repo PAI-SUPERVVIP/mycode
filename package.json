@@ -1,6 +1,6 @@
 cat > package.json << 'EOF'
 {
-  "name": "web-terminal-full",
+  "name": "mycode",
   "version": "1.0.0",
   "scripts": {
     "start": "node server.js"
